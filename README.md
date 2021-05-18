@@ -1,9 +1,9 @@
 # Music Genre Prediction - Data Science
-* Trained model that determine music genre by evaluating songs lyrics, BPM, key, scale and more..
-* Scraped over 19000 songs from amazon digital music using python and selenium
-* Gathered song's features from MusicStax and Genius using selenium, API.
-* Engineered features from the text of each song's lyrics to quantify the value of words related to certain genre. 
-* Ran test on these models Decision Tree, Naive Bayes, SVM, Logistic Regression to reach the best model.
+*  Trained model that determines music genre by evaluating song’s lyrics, BPM, key, scale and more...
+*  Scraped over 19000 songs from amazon digital music using python and selenium.
+*  Gathered song's features from MusicStax and Genius using selenium and API.
+*  Extracted features from the text of each song's lyrics to quantify the value of words related to certain genre.
+*  Ran test on these models Decision Tree, Naive Bayes, SVM, Logistic Regression to reach the best model.
 
 ## Code and Resources Used 
 **Python Version:** 3.9  
