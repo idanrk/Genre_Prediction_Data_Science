@@ -1,5 +1,5 @@
 # Music Genre Prediction - Data Science
-* Created a tool that determine music genre by evaluating songs lyrics, BPM, key, scale and more..
+* Trained model that determine music genre by evaluating songs lyrics, BPM, key, scale and more..
 * Scraped over 19000 songs from amazon digital music using python and selenium
 * Gathered song's features from MusicStax and Genius using selenium, API.
 * Engineered features from the text of each song's lyrics to quantify the value of words related to certain genre. 
