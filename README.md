@@ -34,9 +34,13 @@ After scraping the data, I needed to clean it up so I can used it on function I 
 ## EDA
 The highlight of this phase are the different words by genre: 
 
+* Rock Word Cloud
 ![alt text](https://github.com/idanrk/Genre_Prediction_Data_Science/blob/main/rock_cloud.png "Rock Word Cloud")
+* Pop Word Cloud
 ![alt text](https://github.com/idanrk/Genre_Prediction_Data_Science/blob/main/pop_cloud.png "Pop Word Cloud")
+* Country Word Cloud
 ![alt text](https://github.com/idanrk/Genre_Prediction_Data_Science/blob/main/country_cloud.png "Country Word Cloud")
+* HipHop Word Cloud
 ![alt text](https://github.com/idanrk/Genre_Prediction_Data_Science/blob/main/hiphop_cloud.png "HipHop Word Cloud")
 
 ## Model Building 
