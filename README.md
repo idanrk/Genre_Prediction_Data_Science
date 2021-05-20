@@ -50,19 +50,15 @@ Splitted the data into train and tests sets with a test size of 20%.
 
 
 I tried three different models:
-*	**Decision Tree**
+*	**Random Forest**
 *	**Naive Bayes**
 *	**SVM** 
 *	**Logistic Regression**
 
 ## Model performance
-*	**Decision Tree** = 55%
-*	**Naive Bayes** = 61%
-*	**SVM** = 55%
-*	**Logistic Regression** = 59%
+*	**Random Forest** = 70% (After GridSearch)
+*	**Naive Bayes** = 62%
+*	**SVM** = 61%
+*	**Logistic Regression** = 61%
 
-
-## Work to do:
-I need to fix overfitting models. work more on raising the prediction accuracy rate.
-
-
+![alt text](https://github.com/idanrk/Genre_Prediction_Data_Science/blob/main/confusion_matrix.png "Confusion Matrix")
